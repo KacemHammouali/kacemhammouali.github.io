@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.kacemhammouali.twa",
-        "sha256_cert_fingerprints": ["3A:B5:D3:6A:74:F2:E8:C3:83:4E:7A:03:12:F5:2F:3B:15:D2:CD:D4:ED:37:35:10:A0:35:52:01:7E:36:FC:71"]
+        "package_name": "com.xhak.manasax",
+        "sha256_cert_fingerprints": ["92:93:3F:99:EE:82:85:19:82:D2:52:17:F9:A8:C8:A0:8A:12:B5:64:EE:32:87:C3:57:81:66:04:ED:20:1D:89"]
       }
     }]
