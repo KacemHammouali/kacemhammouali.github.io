@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.xhak.manasax",
+        "sha256_cert_fingerprints": ["92:93:3F:99:EE:82:85:19:82:D2:52:17:F9:A8:C8:A0:8A:12:B5:64:EE:32:87:C3:57:81:66:04:ED:20:1D:89"]
+      }
+    }]
